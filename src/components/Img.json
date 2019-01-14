@@ -1,48 +1,48 @@
 [{
-    "name": "contra",
-    "url": "./images/contra.jpg"
+    "name": "Assassins Creed",
+    "url": "./images/Assassins%20Creed.gif"
   },
   {
-    "name": "dance",
-    "url": "./images/dance.jpg"
+    "name": "GTA",
+    "url": "./images/GTA.gif"
   },
   {
-    "name": "donkeykong",
-    "url": "./images/donkeykong.jpg"
+    "name": "Dance",
+    "url": "./images/M%26L%20Dance.gif"
   },
   {
-    "name": "duckhunt",
-    "url": "./images/duckhunt.jpg"
+    "name": "Mortal Kombat",
+    "url": "./images/Mortal%20Kombat.gif"
   },
   {
-    "name": "kirby",
-    "url": "./images/kirby.jpg"
+    "name": "NHL 13",
+    "url": "./images/NHL13.gif"
   },
   {
-    "name": "kirbystarhighfive",
-    "url": "./images/kirbystarhighfive.jpg"
+    "name": "Pikachu",
+    "url": "./images/Pikachu.gif"
   },
   {
-    "name": "marioextraspin",
-    "url": "./images/marioextraspin.jpg"
+    "name": "Resident Evil",
+    "url": "./images/Resident%20Evil.gif"
   },
   {
-    "name": "marioworld",
-    "url": "./images/marioworld.jpg"
+    "name": "Robocop",
+    "url": "./images/Robocop.gif"
   },
   {
-    "name": "toad",
-    "url": "./images/toad.jpg"
+    "name": "Koopa",
+    "url": "./images/koopa.gif"
   },
   {
-    "name": "waluigi",
-    "url": "./images/waluigi.jpg"
+    "name": "Pac-Man",
+    "url": "./images/pac-man.gif"
   },
   {
-    "name": "zelda",
-    "url": "./images/zelda.jpg"
+    "name": "Street Fighter",
+    "url": "./images/street_fighter_2.gif"
   },
   {
-    "name": "koopa",
-    "url": "./images/koopa.jpg"
+    "name": "Zelda",
+    "url": "./images/zelda.gif"
   }]
