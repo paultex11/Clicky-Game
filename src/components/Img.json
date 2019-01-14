@@ -1,0 +1,48 @@
+[{
+    "name": "contra",
+    "url": "./images/contra.jpg"
+  },
+  {
+    "name": "dance",
+    "url": "./images/dance.jpg"
+  },
+  {
+    "name": "donkeykong",
+    "url": "./images/donkeykong.jpg"
+  },
+  {
+    "name": "duckhunt",
+    "url": "./images/duckhunt.jpg"
+  },
+  {
+    "name": "kirby",
+    "url": "./images/kirby.jpg"
+  },
+  {
+    "name": "kirbystarhighfive",
+    "url": "./images/kirbystarhighfive.jpg"
+  },
+  {
+    "name": "marioextraspin",
+    "url": "./images/marioextraspin.jpg"
+  },
+  {
+    "name": "marioworld",
+    "url": "./images/marioworld.jpg"
+  },
+  {
+    "name": "toad",
+    "url": "./images/toad.jpg"
+  },
+  {
+    "name": "waluigi",
+    "url": "./images/waluigi.jpg"
+  },
+  {
+    "name": "zelda",
+    "url": "./images/zelda.jpg"
+  },
+  {
+    "name": "koopa",
+    "url": "./images/koopa.jpg"
+  }]
