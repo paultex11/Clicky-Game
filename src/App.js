@@ -64,7 +64,7 @@ class App extends Component {
 
   imgSwitch = (name) => {
     switch (name) {
-      case "Assassins Creed":
+      case "AssassinsCreed":
         return `${AssassinsCreed}`
       case "GTA":
         return `${GTA}`
