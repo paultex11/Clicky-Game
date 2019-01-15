@@ -16,7 +16,7 @@ import Pikachu from "./images/Pikachu.gif"
 import ResidentEvil from "./images/Resident%20Evil.gif"
 import Robocop from "./images/Robocop.gif"
 import Koopa from "./images/koopa.gif"
-import Pac-Man from "./images/pac-man.gif"
+import pacman from "./images/pac-man.gif"
 import StreetFighter from "./images/street_fighter_2.gif"
 import Zelda from "./images/zelda.gif"
 
@@ -82,10 +82,10 @@ class App extends Component {
         return `${Robocop}`
       case "Koopa":
         return `${Koopa}`
-      case "Pac-Man":
-        return `${Pac-Man}`
+      case "pacman":
+        return `${pacman}`
       case "Street Fighter":
-        return `${Street Fighter}`
+        return `${StreetFighter}`
       case "Zelda":
         return `${Zelda}`
       default:
