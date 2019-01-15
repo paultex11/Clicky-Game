@@ -7,7 +7,7 @@ import Image from "./components/Image";
 import Img from "./components/Img.json"
 
 //image imports
-import AC from "./images/Assassins%20Creed.gif"
+import AC from "./images/AC.gif"
 import GTA from "./images/GTA.gif"
 import Dance from "./images/M%26L%20Dance.gif"
 import MortalKombat from "./images/Mortal%20Kombat.gif"
