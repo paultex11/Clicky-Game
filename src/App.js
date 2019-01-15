@@ -9,7 +9,7 @@ import Img from "./components/Img.json"
 //image imports
 import AC from "./images/AC.gif"
 import GTA from "./images/GTA.gif"
-import dance from "./images/M%26L%20Dance.gif"
+import dance from "./images/MLDance.gif"
 import MortalKombat from "./images/Mortal%20Kombat.gif"
 import NHL13 from "./images/NHL13.gif"
 import Pikachu from "./images/Pikachu.gif"
