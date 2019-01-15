@@ -10,10 +10,10 @@ import Img from "./components/Img.json"
 import AC from "./images/AC.gif"
 import GTA from "./images/GTA.gif"
 import dance from "./images/MLDance.gif"
-import MortalKombat from "./images/Mortal%20Kombat.gif"
+import MortalKombat from "./images/MortalKombat.gif"
 import NHL13 from "./images/NHL13.gif"
 import Pikachu from "./images/Pikachu.gif"
-import ResidentEvil from "./images/Resident%20Evil.gif"
+import ResidentEvil from "./images/ResidentEvil.gif"
 import Robocop from "./images/Robocop.gif"
 import Koopa from "./images/koopa.gif"
 import pacman from "./images/pac-man.gif"
@@ -70,13 +70,13 @@ class App extends Component {
         return `${GTA}`
       case "dance":
         return `${dance}`
-      case "Mortal Kombat":
+      case "MortalKombat":
         return `${MortalKombat}`
       case "NHL 13":
         return `${NHL13}`
       case "Pikachu":
         return `${Pikachu}`
-      case "Resident Evil":
+      case "ResidentEvil":
         return `${ResidentEvil}`
       case "Robocop":
         return `${Robocop}`
@@ -84,7 +84,7 @@ class App extends Component {
         return `${Koopa}`
       case "pacman":
         return `${pacman}`
-      case "Street Fighter":
+      case "StreetFighter":
         return `${StreetFighter}`
       case "Zelda":
         return `${Zelda}`
