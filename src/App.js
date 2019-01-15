@@ -16,7 +16,7 @@ import Pikachu from "./images/Pikachu.gif"
 import ResidentEvil from "./images/ResidentEvil.gif"
 import Robocop from "./images/Robocop.gif"
 import Koopa from "./images/koopa.gif"
-import pacman from "./images/pac-man.gif"
+import pacman from "./images/pacman.gif"
 import StreetFighter from "./images/street_fighter_2.gif"
 import Zelda from "./images/zelda.gif"
 
