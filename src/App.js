@@ -7,7 +7,7 @@ import Image from "./components/Image";
 import Img from "./components/Img.json"
 
 //image imports
-import AssassinsCreed from "./images/Assassins%20Creed.gif"
+import AC from "./images/Assassins%20Creed.gif"
 import GTA from "./images/GTA.gif"
 import Dance from "./images/M%26L%20Dance.gif"
 import MortalKombat from "./images/Mortal%20Kombat.gif"
@@ -64,8 +64,8 @@ class App extends Component {
 
   imgSwitch = (name) => {
     switch (name) {
-      case "AssassinsCreed":
-        return `${AssassinsCreed}`
+      case "AC":
+        return `${AC}`
       case "GTA":
         return `${GTA}`
       case "Dance":
