@@ -1,4 +1,4 @@
-<strong>React Clicky Game</strong>
+<h1><strong>React Clicky Game</strong></h1>
 <b>
 This is a simple memory challenge game written in React
 
