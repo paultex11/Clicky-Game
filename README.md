@@ -6,6 +6,6 @@ This is a simple memory challenge game written in React
 
 Use this link to play:
 <b>
-https://thawing-plateau-58078.herokuapp.com/
+<p>https://thawing-plateau-58078.herokuapp.com/</p>
 <b>
-https://paultex11.github.io/Clicky-Game/
+<p>https://paultex11.github.io/Clicky-Game/</p>
