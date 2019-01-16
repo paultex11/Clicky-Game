@@ -2,7 +2,10 @@
 <b>
 This is a simple memory challenge game written in React
 
-Don't click the same card twice!
+<h3>Don't click the same card twice!</h3>
 
 Use this link to play:
+<b>
 https://thawing-plateau-58078.herokuapp.com/
+<b>
+https://paultex11.github.io/Clicky-Game/
